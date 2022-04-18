@@ -1,0 +1,5 @@
+name: FishingPus
+version: '1.2'
+main: org.kelsi.fishingplus
+api-version: 1.16
+authors: [ Kelsi ]
