@@ -1,1 +1,4 @@
-empty :)
+#Change only messages!
+messages:
+  fish_succes: 'you fished fish!'
+  fish_fail: "you fish broke"

@@ -1,4 +1,4 @@
-name: FishingPus
+name: FishingPlus
 version: '${project.version}'
 main: org.kelsi.fishingplus
 api-version: 1.16
